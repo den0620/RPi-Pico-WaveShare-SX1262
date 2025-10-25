@@ -52,3 +52,7 @@ SX1262 init success
 ```
 
 Everything's seems good
+
+# Update
+
+I've connected LoRa to antenna and it worked ok. After I've made a DIY one from two empty cans it works good
