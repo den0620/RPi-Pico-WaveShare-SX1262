@@ -51,7 +51,7 @@ Bad contact (or/and bad wiring?)
 SX1262 init success
 ```
 
-Everything's seems good
+Everything's good
 
 # Update
 
